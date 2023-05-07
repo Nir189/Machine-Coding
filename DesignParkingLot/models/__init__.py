@@ -1,0 +1,1 @@
+#__init__.py is an empty file that tells Python that the parking (Here it is models) directory should be treated as a package.
